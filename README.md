@@ -66,7 +66,7 @@ Installed necessary libraries:
 
 Here’s what the News Topic Classifier looks like in action:
 
-![App Demo](Capture.png)
+![App Demo](Capture.PNG)
 
 ---
 
