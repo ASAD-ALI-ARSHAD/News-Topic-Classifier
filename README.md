@@ -62,6 +62,14 @@ Installed necessary libraries:
 
 ---
 
+## 🖼 App Demo
+
+Here’s what the News Topic Classifier looks like in action:
+
+![App Demo](Capture.png)
+
+---
+
 ## 🏁 Final Summary / Insights
 This project demonstrates:
 - How to **fine-tune a BERT model** on a text classification dataset.
